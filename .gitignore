@@ -23,5 +23,5 @@
 hs_err_pid*
 replay_pid*
 
-package-lock.json
-node-modules
+dofd-05-holotsvan/package-lock.json
+dofd-05-holotsvan/node-modules
