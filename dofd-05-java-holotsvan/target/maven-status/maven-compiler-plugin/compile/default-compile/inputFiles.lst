@@ -1,0 +1,14 @@
+/home/holotsvan/Desktop/holotsvan_i/dofd-05-java-holotsvan/src/main/java/softserve/academy/simplecrud/model/request/NewProduct.java
+/home/holotsvan/Desktop/holotsvan_i/dofd-05-java-holotsvan/src/main/java/softserve/academy/simplecrud/model/response/ProductUpdated.java
+/home/holotsvan/Desktop/holotsvan_i/dofd-05-java-holotsvan/src/main/java/softserve/academy/simplecrud/model/response/ProductDeleted.java
+/home/holotsvan/Desktop/holotsvan_i/dofd-05-java-holotsvan/src/main/java/softserve/academy/simplecrud/config/AppConfig.java
+/home/holotsvan/Desktop/holotsvan_i/dofd-05-java-holotsvan/src/main/java/softserve/academy/simplecrud/exception/ProductNotFoundException.java
+/home/holotsvan/Desktop/holotsvan_i/dofd-05-java-holotsvan/src/main/java/softserve/academy/simplecrud/model/response/ProductCreated.java
+/home/holotsvan/Desktop/holotsvan_i/dofd-05-java-holotsvan/src/main/java/softserve/academy/simplecrud/SimplecrudApplication.java
+/home/holotsvan/Desktop/holotsvan_i/dofd-05-java-holotsvan/src/main/java/softserve/academy/simplecrud/model/response/ProductDto.java
+/home/holotsvan/Desktop/holotsvan_i/dofd-05-java-holotsvan/src/main/java/softserve/academy/simplecrud/model/entity/Product.java
+/home/holotsvan/Desktop/holotsvan_i/dofd-05-java-holotsvan/src/main/java/softserve/academy/simplecrud/service/ProductService.java
+/home/holotsvan/Desktop/holotsvan_i/dofd-05-java-holotsvan/src/main/java/softserve/academy/simplecrud/controller/advice/ErrorController.java
+/home/holotsvan/Desktop/holotsvan_i/dofd-05-java-holotsvan/src/main/java/softserve/academy/simplecrud/repository/ProductRepository.java
+/home/holotsvan/Desktop/holotsvan_i/dofd-05-java-holotsvan/src/main/java/softserve/academy/simplecrud/model/request/PatchProduct.java
+/home/holotsvan/Desktop/holotsvan_i/dofd-05-java-holotsvan/src/main/java/softserve/academy/simplecrud/controller/ProductController.java
